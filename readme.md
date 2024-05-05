@@ -1,5 +1,7 @@
 # COTR: Correspondence Transformer for Matching Across Images (ICCV 2021)
 
+This repository has been slightly modified from the original [COTR](https://github.com/ubc-vision/COTR) to adapt as a submodule for https://github.com/Vincentqyw/image-matching-webui
+
 This repository is a reference implementation for COTR.
 COTR establishes correspondence in a functional and end-to-end fashion. It solves dense and sparse correspondence problem in the same framework.
 
